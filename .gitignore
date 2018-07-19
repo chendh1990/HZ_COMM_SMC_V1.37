@@ -1,0 +1,16 @@
+/.settings
+/bin
+/ld
+/lib
+/tools
+.cproject
+.DS_Store
+.project
+ESP8266_SDK*.doc
+HZ*.xls
+License
+WIFI*.doc
+韩智*.doc
+.output/
+.settings/
+SIPrj/

@@ -1,0 +1,9 @@
+/*
+!gitignore
+!/IoT_Demo/driver/
+!/IoT_Demo/include/
+!/IoT_Demo/MQTT_API/
+!/IoT_Demo/newfolder/
+!/IoT_Demo/user/
+!/IoT_Demo/gen_misc.sh
+!/IoT_Demo/Makefile
